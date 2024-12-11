@@ -39,22 +39,21 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">After twin brothers are found murdered in a maze on the grounds of their estate, the local Chief Constable must solve the crimes and bring the perpetrator(s) to justice.</dc:description>
+		<dc:description id="description">After twin brothers are found murdered in a maze, the local Chief Constable must solve the crimes.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;After twin brothers Neville and Roger Shandon are found murdered on the same afternoon in the hedge maze on the grounds of their country estate outside London, the local county’s Chief Constable must solve the murders and bring the perpetrator(s) to justice.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Murder in the Maze&lt;/i&gt; was the first of seventeen detective novels by &lt;a href="https:https://github.com/standardebooks/j-j-connington"&gt;J. J. Connington&lt;/a&gt;, the pseudonym used by British chemist and part-time author Alfred Walter Stewart. &lt;i&gt;Murder in the Maze&lt;/i&gt; was first published in Britain in 1927 and introduces his best-known detective character, Chief Constable Sir Clinton Driffield. The author’s academic and scientific background add depth and detail throughout the story.&lt;/p&gt;
+			&lt;p&gt;After twin brothers Neville and Roger Shandon are both found murdered on the same afternoon in the hedge maze on the grounds of their country estate outside London, the local county’s Chief Constable must solve the mystery of their deaths and bring the perpetrator(s) to justice.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Murder in the Maze&lt;/i&gt; was the first of seventeen detective novels by &lt;a href="https://standardebooks.org/ebooks/j-j-connington"&gt;J. J. Connington&lt;/a&gt;, the pseudonym used by British chemist and part-time author Alfred Walter Stewart. &lt;i&gt;Murder in the Maze&lt;/i&gt; was first published in Britain in 1927 and introduces his best-known detective character, Chief Constable Sir Clinton Driffield. The author’s academic and scientific background add depth and detail throughout the story.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/71351</dc:source>
 		<dc:source>https://archive.org/details/dli.ernet.242618</dc:source>
-		<meta property="se:production-notes">In producing this ebook, we corrected what we believe to be a printing error in chapter 11 where a time was specified as "4.5" in the text and page-scans. From the context provided by the story, we believe this should have been "4.05" (or "4:05" as times are currently formatted).</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Murder_in_the_Maze</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-j-connington_murder-in-the-maze</meta>
 		<dc:creator id="author">J. J. Connington</dc:creator>
 		<meta property="file-as" refines="#author">Connington, J. J.</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/J._J._Connington</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Alfred_Walter_Stewart</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n86862953</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Elliott Seabrooke</dc:contributor>
