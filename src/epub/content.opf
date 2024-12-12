@@ -45,7 +45,7 @@
 		<dc:description id="description">Twin brothers are found murdered in a maze, and the local Chief Constable must solve the crime.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;After twin brothers Neville and Roger Shandon are both found murdered on the same afternoon in the hedge maze on the grounds of their country estate outside London, the local county’s Chief Constable must solve the mystery of their deaths and bring the perpetrator to justice.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Murder in the Maze&lt;/i&gt; is the first of seventeen detective novels by &lt;a href="https://standardebooks.org/ebooks/j-j-connington"&gt;J. J. Connington&lt;/a&gt;. It was first published in Britain in 1927 and introduces his best-known detective character, Chief Constable Sir Clinton Driffield. The author’s academic and scientific background adds significant verisimilitude to the story.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Murder in the Maze&lt;/i&gt; is the first of seventeen detective novels by &lt;a href="https://standardebooks.org/ebooks/j-j-connington"&gt;J. J. Connington&lt;/a&gt;. It was first published in Britain in 1927 and introduces his best-known detective character, &lt;a href="https://standardebooks.org/collections/sir-clinton-driffield"&gt;Chief Constable Sir Clinton Driffield&lt;/a&gt;. The author’s academic and scientific background adds significant verisimilitude to the story.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/71351</dc:source>
