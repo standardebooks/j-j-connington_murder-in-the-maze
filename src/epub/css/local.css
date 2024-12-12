@@ -2,5 +2,5 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 #chapter-2 blockquote{
-	font-variant: all-small-caps;
+	font-variant: small-caps;
 }
